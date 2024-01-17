@@ -19,7 +19,7 @@ All in-game logic (scoring, spawning, etc.) was developed using C#, Unity's scri
 
 
 ## Running the Game
-Simply clone this repo to a local machine and extract the **Fruit Ninka** directory. Run the **Fruit Ninka.exe** file located at `...\Fruit Ninka\BuildHere `. The game should start in fullscreen mode.
+Simply clone this repo to a local machine and extract the **Fruit Ninka** directory. Run the **Fruit Ninka.exe** file located at `...\Fruit Ninka\BuildHere`. The game should start in fullscreen mode.
 
 ## Known Issues
 + There is currently no way to pause the game at any point. The only way to exit this game is to probably do the Task Manager way, or **Win** key to bring up the taskbar and close the window.
